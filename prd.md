@@ -197,8 +197,6 @@ Further Queries
 Before and/or during project development, the following queries will need to be analysed and then addressed:
 - Will FindIt solely be developed for Babcock University or will it in future also be developed for other universities?
 - Will students be required to register using their UMIS information?
-
-  Edited by Inioluwa
 - How will the system analyse evidence of ownership so that it can recognise the correct owner of an item?
 - Which university department or members will manage the system?
 - Should students be permitted to both amend and remove their reports?
@@ -219,3 +217,5 @@ It is anticipated that FindIt will:
 This project aims to further improve the effectiveness and structure of the procedure for students to report and for items to be returned at Babcock University.
 By providing a centralised system for students to report lost items, for university members to document found items and to further enhance student-university member communication, the system is expected to effectively manage lost and found items.
 Overall, it is anticipated that FindIt will further improve the analysis of lost items and so enhance the likelihood that lost items are returned to their correct owners.
+
+Edited by inioluwa
