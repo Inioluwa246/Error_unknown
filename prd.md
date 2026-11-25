@@ -197,6 +197,8 @@ Further Queries
 Before and/or during project development, the following queries will need to be analysed and then addressed:
 - Will FindIt solely be developed for Babcock University or will it in future also be developed for other universities?
 - Will students be required to register using their UMIS information?
+
+  Edited by Inioluwa
 - How will the system analyse evidence of ownership so that it can recognise the correct owner of an item?
 - Which university department or members will manage the system?
 - Should students be permitted to both amend and remove their reports?
