@@ -217,3 +217,5 @@ It is anticipated that FindIt will:
 This project aims to further improve the effectiveness and structure of the procedure for students to report and for items to be returned at Babcock University.
 By providing a centralised system for students to report lost items, for university members to document found items and to further enhance student-university member communication, the system is expected to effectively manage lost and found items.
 Overall, it is anticipated that FindIt will further improve the analysis of lost items and so enhance the likelihood that lost items are returned to their correct owners.
+
+Edited by inioluwa
