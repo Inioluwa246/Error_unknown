@@ -219,4 +219,4 @@ By providing a centralised system for students to report lost items, for univers
 Overall, it is anticipated that FindIt will further improve the analysis of lost items and so enhance the likelihood that lost items are returned to their correct owners.
 
 Edited by inioluwa
-contributor sobanke ifeoluwa, Osemede Donald, Wealth azuka, Salawu olanrewaju
+contributor sobanke ifeoluwa, Osemede Donald, Wealth azuka, Salawu olanrewaju.
