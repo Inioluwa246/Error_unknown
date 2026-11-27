@@ -64,7 +64,7 @@ As a university member, I would like to receive communications when students rep
 As a university member, I would like to analyse evidence of someone’s identification and ownership so that I can return items to the correct owner.
 
 
-5. FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS
+5. FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS.
 Functional Requirements
 A. Registration and Sign-In
 - Enable students to set up an account with their UMIS information.
